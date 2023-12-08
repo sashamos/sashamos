@@ -7,7 +7,7 @@ Great thanks to Dmitry from Syrfanalytics who initiated my move to exploring and
 
 The aim of this project to learn main functionalities of two large and fast system in ELT tools: Snowflake and dbt. I am going to concentrate how to connect these to systems, how to marry them, and how to get main functionalities working
 
-I am following along this course on Udemy and supplement it with my notes what has worked and what doesn't.
+I am following along this course on Udemy: https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/?referralCode=659B6722C93EF4096D11 and supplement it with my notes what has worked and what doesn't.
 
 A few words about these systems with some help of chatGpt. 
 
